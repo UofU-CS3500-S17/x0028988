@@ -13,6 +13,13 @@ namespace DemoApp
         }
     }
 
+    class Another
+    {
+        static void h()
+        {
+        }
+    }
+
     class Other
     {
         static void g()
